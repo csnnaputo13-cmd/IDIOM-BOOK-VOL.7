@@ -220,12 +220,4 @@ All Rights Reserved. This application and its contents are the intellectual prop
 
 ---
 
-## 🤝 Support
-
-For questions, feedback, or support:
-- 📧 Email: [christopher@csnreviewer.com](mailto:christopher@csnreviewer.com)
-- 🌐 Website: [csnreviewer.com](https://csnreviewer.com)
-
----
-
 *Happy Learning! 📚✨*
