@@ -224,7 +224,7 @@ All Rights Reserved. This application and its contents are the intellectual prop
 
 For questions, feedback, or support:
 - 📧 Email: csn.naputo13@gmail.com
-- 🌐 Website: csnnaputo13-cmd
+- 🌐 GitHub: csnnaputo13-cmd
 
 ---
 
