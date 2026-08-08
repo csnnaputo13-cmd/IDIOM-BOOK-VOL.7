@@ -220,4 +220,14 @@ All Rights Reserved. This application and its contents are the intellectual prop
 
 ---
 
+## 🤝 Support
+
+For questions, feedback, or support:
+- 📧 Email: csn.naputo13@gmail.com
+- 🌐 Website: csnnaputo13-cmd
+
+---
+
 *Happy Learning! 📚✨*
+
+CSN - Christopher S. Naputo Reviewer: All Rights Reserved 📘
